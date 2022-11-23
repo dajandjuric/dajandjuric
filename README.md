@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dajandjuric, IT engineer based in Banja Luka, Bosnia.
+- 👋 Hi, I’m @dajandjuric, IT engineer based in Banja Luka, Bosnia & Herzegovina.
 - 👀 Interested in Front-end Development.
 - 🌱 Currently learning Javascript, AlpineJS and Tailwind CSS.
 - 💞️ Looking to collaborate on beginner friendly open source projects.
-- 📫 How to reach me: send me a message here or email me @ dajandjuric@gmail.com
+- 📫 How to reach me: send me a message here!
 
 <!---
 dajandjuric/dajandjuric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
